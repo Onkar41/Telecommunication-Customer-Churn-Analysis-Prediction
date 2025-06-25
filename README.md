@@ -4,11 +4,11 @@ This project aims to analyze customer data to understand churn behavior and buil
 ________________________________________
 
 ## Features
-•	Exploratory data analysis on customer churn data
-•	Data cleaning and preprocessing with SQL
-•	Machine learning model ( Random Forest)
-•	Power BI dashboard for churn trends
-•	Insights into key factors driving customer churn
+-•	Exploratory data analysis on customer churn data
+-•	Data cleaning and preprocessing with SQL
+-•	Machine learning model ( Random Forest)
+-•	Power BI dashboard for churn trends
+-•	Insights into key factors driving customer churn
 ________________________________________
 ## Technologies Used
 •	Python (Pandas, scikit-learn, Matplotlib)
