@@ -11,22 +11,22 @@ ________________________________________
 -	Insights into key factors driving customer churn
 ________________________________________
 ## Technologies Used
-•	Python (Pandas, scikit-learn, Matplotlib)
-•	Power BI
-•	Jupyter Notebook
-•	Excel (optional for preprocessing)
+-Python (Pandas, scikit-learn, Matplotlib)
+-Power BI
+-Jupyter Notebook
+-Excel (optional for preprocessing)
 ________________________________________
 ## Power BI Dashboard
-Include 1–2 screenshots in the /visuals folder and reference them like:
+--Include 1–2 screenshots in the /visuals folder and reference them like:
 scss
-CopyEdit
+--CopyEdit
 ![Dashboard Preview](visuals/dashboard_sample.png)
 ________________________________________
 ## Model Performance
 (Optional — only if you calculated it)
-•	Accuracy: 87%
-•	Precision: 0.79
-•	Top churn indicators: Contract Type, Monthly Charges, Tenure
+-Accuracy: 87%
+-Precision: 0.79
+-Top churn indicators: Contract Type, Monthly Charges, Tenure
 ________________________________________
 ## Dataset Source
 Dataset used: 
