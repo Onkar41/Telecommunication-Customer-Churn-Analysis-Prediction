@@ -29,5 +29,6 @@ ________________________________________
 - Include 1–2 screenshots in the /visuals folder and reference them like:
 scss
 - CopyEdit
-![Dashboard Preview]([visuals/dashboard_sample.png](https://github.com/Onkar41/Telecommunication-Customer-Churn-Analysis-Prediction/blob/main/Customer_Chrun_Analysis/ProjectPhoto/summary.png))
+![image](https://github.com/user-attachments/assets/5d1aae27-3378-4ac7-b13d-efaf810d7605)
+
 ________________________________________
