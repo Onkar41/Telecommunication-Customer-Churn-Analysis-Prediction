@@ -23,7 +23,7 @@ scss
 ![Dashboard Preview](visuals/dashboard_sample.png)
 ________________________________________
 ## Model Performance
-(Optional — only if you calculated it)
+
 - Accuracy: 87%
 - Precision: 0.79
 - Top churn indicators: Contract Type, Monthly Charges, Tenure
