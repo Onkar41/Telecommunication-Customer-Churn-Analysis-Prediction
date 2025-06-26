@@ -16,12 +16,6 @@ ________________________________________
 - Jupyter Notebook
 - Excel (optional for preprocessing)
 ________________________________________
-## Power BI Dashboard
-- Include 1–2 screenshots in the /visuals folder and reference them like:
-scss
-- CopyEdit
-![Dashboard Preview](visuals/dashboard_sample.png)
-________________________________________
 ## Model Performance
 
 - Accuracy: 87%
@@ -30,3 +24,10 @@ ________________________________________
 ________________________________________
 ## Dataset Source
 Dataset used<a href="https://github.com/Onkar41/Telecommunication-Customer-Churn-Analysis-Prediction/blob/main/Customer_Chrun_Analysis/Data/Customer_Data.csv" >Dataset</a>
+________________________________________
+## Power BI Dashboard
+- Include 1–2 screenshots in the /visuals folder and reference them like:
+scss
+- CopyEdit
+![Dashboard Preview]([visuals/dashboard_sample.png](https://github.com/Onkar41/Telecommunication-Customer-Churn-Analysis-Prediction/blob/main/Customer_Chrun_Analysis/ProjectPhoto/summary.png))
+________________________________________
