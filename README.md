@@ -26,7 +26,7 @@ ________________________________________
 Dataset used<a href="https://github.com/Onkar41/Telecommunication-Customer-Churn-Analysis-Prediction/blob/main/Customer_Chrun_Analysis/Data/Customer_Data.csv" >Dataset</a>
 ________________________________________
 ## Power BI Dashboard
-- SUMMARY PAGE:  /n
+- SUMMARY PAGE:  \n
 ![image](https://github.com/user-attachments/assets/5d1aae27-3378-4ac7-b13d-efaf810d7605)
 - PREDICTION PAGE /n
 ![prediction](https://github.com/user-attachments/assets/c025d863-1f21-4ed1-8672-27a69e5f8d88)
